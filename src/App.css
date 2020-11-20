@@ -1,0 +1,100 @@
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.footer{
+    background-color: #D1C4E9;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: #9575CD ;
+    color:floralwhite;
+}
+
+.reserve{
+    
+    margin:10px auto;
+    background: #9575CD ;
+    color:floralwhite;
+    }
+address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+}
+.bg-light1{
+    text-align: center;  
+    color:#000000;
+     background: #9575CD;
+}
+
+.hiding (max-width:600px){
+display: none;
+}
+
+.blink {
+  animation: blink-animation 1s steps(5, start) infinite;
+  -webkit-animation: blink-animation 1s steps(5, start) infinite;
+}
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+.move {
+  width: 300px;
+  height: 100px;
+  background-color: indigo;
+  position: relative;
+  animation-name: example 10s steps(3, start) infinite;
+  -webkit-animation: example 10s steps(3, start) infinite;
+  color:floralwhite;
+}
+
+@keyframes example {
+  0%   { left:0px; top:0px;}
+  25%  { left:200px; top:0px;}
+  50%  { left:200px; top:0px;}
+  75%  { left:0px; top:0px;}
+  100% { left:0px; top:0px;}
+}
+.navbar-dark {
+    background-color: #512DA8;
+}
+.page-enter {
+    opacity: 0.01;
+    transform: translateX(-100%);
+}
+
+.page-enter-active {
+    opacity: 1;
+    transform: translateX(0%);
+    transition: all 300ms ease-in;
+}
+
+.page-exit {
+    opacity: 1;
+    transform: translateX(0%);
+}
+
+.page-exit-active {
+    opacity: 0.01;
+    transform: translateX(100%);
+    transition: all 300ms ease-out;
+}
