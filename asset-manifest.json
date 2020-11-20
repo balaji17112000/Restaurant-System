@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Restaurant-System/static/css/main.9d825108.chunk.css",
+    "main.js": "/Restaurant-System/static/js/main.e920451d.chunk.js",
+    "main.js.map": "/Restaurant-System/static/js/main.e920451d.chunk.js.map",
+    "runtime-main.js": "/Restaurant-System/static/js/runtime-main.186d6631.js",
+    "runtime-main.js.map": "/Restaurant-System/static/js/runtime-main.186d6631.js.map",
+    "static/css/2.748ab408.chunk.css": "/Restaurant-System/static/css/2.748ab408.chunk.css",
+    "static/js/2.d5245af9.chunk.js": "/Restaurant-System/static/js/2.d5245af9.chunk.js",
+    "static/js/2.d5245af9.chunk.js.map": "/Restaurant-System/static/js/2.d5245af9.chunk.js.map",
+    "index.html": "/Restaurant-System/index.html",
+    "precache-manifest.d5961f87575fed87ad44a6b93a2e5f1f.js": "/Restaurant-System/precache-manifest.d5961f87575fed87ad44a6b93a2e5f1f.js",
+    "service-worker.js": "/Restaurant-System/service-worker.js",
+    "static/css/2.748ab408.chunk.css.map": "/Restaurant-System/static/css/2.748ab408.chunk.css.map",
+    "static/css/main.9d825108.chunk.css.map": "/Restaurant-System/static/css/main.9d825108.chunk.css.map",
+    "static/js/2.d5245af9.chunk.js.LICENSE.txt": "/Restaurant-System/static/js/2.d5245af9.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/Restaurant-System/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.186d6631.js",
+    "static/css/2.748ab408.chunk.css",
+    "static/js/2.d5245af9.chunk.js",
+    "static/css/main.9d825108.chunk.css",
+    "static/js/main.e920451d.chunk.js"
+  ]
+}
