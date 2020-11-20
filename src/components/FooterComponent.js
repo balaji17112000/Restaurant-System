@@ -21,7 +21,7 @@ function Footer(props) {
 		              balaji street<br />
 		              balaji nagar<br />
 		              chennai<br />
-		              <i className="fa fa-phone fa-lg"></i>: +91 7358182610<br />
+		              <i className="fa fa-phone fa-lg"></i>: +91 7358******<br />
 
 		              <i className="fa fa-envelope fa-lg"></i>: <a href="gmail:balaji17112000">
                          balaji17112000@gmail.com</a>
