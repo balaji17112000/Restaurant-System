@@ -2,21 +2,17 @@ import React from 'react';
 import { Card, CardImg, CardImgOverlay,
     CardTitle, Breadcrumb, BreadcrumbItem } from 'reactstrap';
 import { Link } from 'react-router-dom';
-import { FadeTransform } from 'react-animation-components';
+
     function RenderMenuItem ({dish, onClick}) {
         return (
-			<FadeTransform
-                in
-                transformProps={{
-                    exitTransform: 'scale(0.5) translateY(-50%)'
-                }}>
+			
             <Card>
             <CardTitle className=" bg-light1 " ><b>{dish.name}</b></CardTitle>
                 <Link to={`/menu/${dish.id}`} >
                     <CardImg width="100%" src={dish.image} alt={dish.name} /> 
                 </Link>
             </Card>
-			</FadeTransform>
+			
         );
     }
 
