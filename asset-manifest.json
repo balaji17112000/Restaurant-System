@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Restaurant-System/static/css/main.9d825108.chunk.css",
-    "main.js": "/Restaurant-System/static/js/main.e920451d.chunk.js",
-    "main.js.map": "/Restaurant-System/static/js/main.e920451d.chunk.js.map",
+    "main.js": "/Restaurant-System/static/js/main.4d4af862.chunk.js",
+    "main.js.map": "/Restaurant-System/static/js/main.4d4af862.chunk.js.map",
     "runtime-main.js": "/Restaurant-System/static/js/runtime-main.186d6631.js",
     "runtime-main.js.map": "/Restaurant-System/static/js/runtime-main.186d6631.js.map",
     "static/css/2.748ab408.chunk.css": "/Restaurant-System/static/css/2.748ab408.chunk.css",
     "static/js/2.d5245af9.chunk.js": "/Restaurant-System/static/js/2.d5245af9.chunk.js",
     "static/js/2.d5245af9.chunk.js.map": "/Restaurant-System/static/js/2.d5245af9.chunk.js.map",
     "index.html": "/Restaurant-System/index.html",
-    "precache-manifest.d5961f87575fed87ad44a6b93a2e5f1f.js": "/Restaurant-System/precache-manifest.d5961f87575fed87ad44a6b93a2e5f1f.js",
+    "precache-manifest.e823fd7307b550073261b1ad743b5885.js": "/Restaurant-System/precache-manifest.e823fd7307b550073261b1ad743b5885.js",
     "service-worker.js": "/Restaurant-System/service-worker.js",
     "static/css/2.748ab408.chunk.css.map": "/Restaurant-System/static/css/2.748ab408.chunk.css.map",
     "static/css/main.9d825108.chunk.css.map": "/Restaurant-System/static/css/main.9d825108.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.748ab408.chunk.css",
     "static/js/2.d5245af9.chunk.js",
     "static/css/main.9d825108.chunk.css",
-    "static/js/main.e920451d.chunk.js"
+    "static/js/main.4d4af862.chunk.js"
   ]
 }
