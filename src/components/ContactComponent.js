@@ -48,7 +48,7 @@ class Contact extends Component {
                         balaji road<br />
                         balaji street<br />
                         chennai<br />
-                        <i className="fa fa-phone"></i>: +91 7358182610<br />
+                        <i className="fa fa-phone"></i>: +91 7358******<br />
                         <i className="fa fa-envelope"></i>: <a href="balaji17112000@gmail.com">balaji17112000@gmail.com</a>
                         </address>
                 </div>
