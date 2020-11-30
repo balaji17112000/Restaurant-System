@@ -1,17 +1,18 @@
 import firebase from 'firebase' ;
 const config = {
-  apiKey: "AIzaSyDV32uwpaGrWU823tGuzpHGo_RETa9JwlM",
-  authDomain: "ooad-77f8b.firebaseapp.com",
-  databaseURL: "https://ooad-77f8b.firebaseio.com",
-  projectId: "ooad-77f8b",
-  storageBucket: "ooad-77f8b.appspot.com",
-  messagingSenderId: "59367853521",
-  appId: "1:59367853521:web:f01baf4c9bd3e607f4a4f0",
-  measurementId: "G-F5RYCH23R3"
+  apiKey: " insert your api key",
+  authDomain: "insert your auth domain",
+  databaseURL: "insert your database url",
+  projectId: "insert your proj id",
+  storageBucket: "insert your storage bucket",
+  messagingSenderId: "enter your sender id",
+  appId: "enter your app id",
+  measurementId: "add measurement id"
 };
 const fire = firebase.initializeApp(config) ;
  export const auth = fire.auth() ;
  export const db = fire.firestore() ;
 export default fire;
+// you can copy the iformation in your firebase account.
 
 
